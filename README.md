@@ -1,4 +1,4 @@
-# Układanka światła
+# nPL_52
 
 Autorska, polskojęzyczna gra logiczna online. Obracaj zwierciadła i poprowadź promień do celu. Projekt nie wymaga konta, bazy danych ani usług zewnętrznych.
 
