@@ -19,4 +19,4 @@ npm run lint
 
 Projekt jest przygotowany do Vercel: `vercel.json` wymusza preset Next.js. Docelowa nazwa projektu: `n-pl-52`; domena: `nilxavqero.quest`. Po podłączeniu domeny sprawdź publiczny dostęp do `/`, `/gra`, `/jak-grac` oraz `/sitemap.xml`.
 
-Adres `kontakt@nilxavqero.quest` należy skonfigurować w usłudze pocztowej przed publikacją kampanii reklamowej. Obecnie gra nie instaluje analityki ani reklam i nie używa własnych plików cookie. Treści polityki prywatności trzeba zaktualizować przed dodaniem takich narzędzi.
+Zgłoszenia są kierowane do publicznego formularza problemów w repozytorium; formularz wymaga konta w serwisie zewnętrznym. Obecnie gra nie instaluje analityki ani reklam i nie używa własnych plików cookie. Treści polityki prywatności trzeba zaktualizować przed dodaniem takich narzędzi.
